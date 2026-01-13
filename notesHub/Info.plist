@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UIApplicationShortcutItems</key>
+     <array>
+         <dict>
+             <key>UIApplicationShortcutItemType</key>
+             <string>com.noteshub.newnote</string>
+             <key>UIApplicationShortcutItemTitle</key>
+             <string>SHORTCUT_NEW_NOTE_TITLE</string>
+             <key>UIApplicationShortcutItemSubtitle</key>
+             <string>SHORTCUT_NEW_NOTE_SUBTITLE</string>
+             <key>UIApplicationShortcutItemIconType</key>
+             <string>UIApplicationShortcutIconTypeCompose</string>
+         </dict>
+         <dict>
+             <key>UIApplicationShortcutItemType</key>
+             <string>com.noteshub.search</string>
+             <key>UIApplicationShortcutItemTitle</key>
+             <string>SHORTCUT_SEARCH_TITLE</string>
+             <key>UIApplicationShortcutItemSubtitle</key>
+             <string>SHORTCUT_SEARCH_SUBTITLE</string>
+             <key>UIApplicationShortcutItemIconType</key>
+             <string>UIApplicationShortcutIconTypeSearch</string>
+         </dict>
+         <dict>
+             <key>UIApplicationShortcutItemType</key>
+             <string>com.noteshub.favorites</string>
+             <key>UIApplicationShortcutItemTitle</key>
+             <string>SHORTCUT_FAVORITES_TITLE</string>
+             <key>UIApplicationShortcutItemSubtitle</key>
+             <string>SHORTCUT_FAVORITES_SUBTITLE</string>
+             <key>UIApplicationShortcutItemIconType</key>
+             <string>UIApplicationShortcutIconTypeFavorite</string>
+         </dict>
+     </array>
+</dict>
+</plist>
