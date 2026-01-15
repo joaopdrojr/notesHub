@@ -37,7 +37,6 @@ struct SettingsView: View {
                 
                 Section("Preferências") {
                     Toggle("Notificações", isOn: $notificationsEnabled)
-                    Toggle("Sincronização", isOn: $syncEnabled)
                 }
                 
                 Section("Dados") {

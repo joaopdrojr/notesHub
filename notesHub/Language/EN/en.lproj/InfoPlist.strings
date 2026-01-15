@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  notesHub
+
+  Created by Joao Pedro Junior on 13/01/26.
+  
+*/
+
+"SHORTCUT_NEW_NOTE_TITLE" = "New Note";
+"SHORTCUT_NEW_NOTE_SUBTITLE" = "Create a note quickly";
+
+"SHORTCUT_SEARCH_TITLE" = "Search";
+"SHORTCUT_SEARCH_SUBTITLE" = "Find your notes";
+
+"SHORTCUT_FAVORITES_TITLE" = "Favorites";
+"SHORTCUT_FAVORITES_SUBTITLE" = "Access your favorite notes";
