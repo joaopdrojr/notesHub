@@ -20,18 +20,18 @@ struct SettingsView: View {
                 Section("Quick Actions") {
                     QuickActionInfoRow(
                         icon: "square.and.pencil",
-                        title: "Nova Nota",
-                        description: "Cria uma nota rapidamente"
+                        title: String(localized: "Nova Nota"),
+                        description: String(localized: "Cria uma nota rapidamente")
                     )
                     QuickActionInfoRow(
                         icon: "magnifyingglass",
-                        title: "Buscar",
-                        description: "Pesquisa em suas notas"
+                        title: String(localized: "Buscar"),
+                        description: String(localized: "Pesquisa em suas notas")
                     )
                     QuickActionInfoRow(
                         icon: "star.fill",
-                        title: "Favoritas",
-                        description: "Acessa notas favoritas"
+                        title: String(localized: "Favoritas"),
+                        description: String(localized: "Acessa notas favoritas")
                     )
                 }
                 

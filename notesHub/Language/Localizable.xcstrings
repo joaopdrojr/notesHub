@@ -33,6 +33,22 @@
         }
       }
     },
+    "Acessa notas favoritas" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access favorite notes"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acessa notas favoritas"
+          }
+        }
+      }
+    },
     "App" : {
       "localizations" : {
         "en" : {
@@ -45,6 +61,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App"
+          }
+        }
+      }
+    },
+    "Buscar" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
           }
         }
       }
@@ -109,6 +135,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configurações"
+          }
+        }
+      }
+    },
+    "Cria uma nota rapidamente" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a note quickly"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cria uma nota rapidamente"
           }
         }
       }
@@ -189,6 +231,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Esta ação não pode ser desfeita. Todas as notas serão removidas permanentemente."
+          }
+        }
+      }
+    },
+    "Favoritas" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorites"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritas"
           }
         }
       }
@@ -493,6 +551,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Persistência"
+          }
+        }
+      }
+    },
+    "Pesquisa em suas notas" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search your notes"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisa em suas notas"
           }
         }
       }
